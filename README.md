@@ -26,7 +26,7 @@
 
 基于Rust的开发，高效的语言带来无与伦比的性能。
 
-高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-OBMiner
+高性能，下一代运维体验，是由硅谷顶尖的研发团队带来的专业矿场运维系统-OBMiner
 
 （部分预览）
 
@@ -94,7 +94,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > (https://github.com/nulizhaoq/obminerproxy/blob/main/obminer-1.0.3.exe)
+   > (https://github.com/nulizhaoq/obminerproxy//main/obminer-1.0.3.exe)
    > ```
    >
 
