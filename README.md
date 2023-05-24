@@ -44,13 +44,7 @@ Telegram：<a href="https://t.me/obminerproxy">https://t.me/obminerproxy</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
-# 特别感谢
 
-<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
-
-<img src="/image/poolin.svg" alt="Logo" width="100">
-
-<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
 
 # 支持的算法
 
@@ -72,13 +66,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
 
 
 
-[rustminersystem.io]: https://github.com/EvilGenius-dot/RustMinerSystem
-[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v1.0.1-green?logo=rust
-[downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/EvilGenius-dot/RustMinerSystem/releases
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
-[stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
+
 
 # 安装 
 
