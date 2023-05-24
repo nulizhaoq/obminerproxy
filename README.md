@@ -34,9 +34,7 @@
 
 </div>
 
-# 免费定制专属版本
 
-[点击查看免费定制专属版本说明](#dingzhi)
 
 # 加入聊天组
 
@@ -94,7 +92,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/2/install.sh)
+   >  bash <(curl -s -L https://github.com/nulizhaoq/obminerproxy/raw/main/Readme/2/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -108,7 +106,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/2/windows
+   > (https://github.com/nulizhaoq/obminerproxy/blob/main/obminer-1.0.3.exe)
    > ```
    >
 
@@ -119,62 +117,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
 
 <span id="dingzhi"></span>
 
-# 定制专属版本说明
 
-1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a>
-2. 请整理以下格式数据发给群主或管理员：
-
-示例：
-
-软件名称
-
-项目地址
-
-logo及简介
-
-—————————————————
-
-币种: BTC,
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： xxxxxxxxxxxxxx
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-币种: ETC
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： xxxxxxxxxxxxxx
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-币种: ETC+ZIL
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： etc匿名钱包.zil匿名钱包
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-......
-
-内置手续费矿池地址默认与软件内目标地址一致, 手续费会抽至端口的目标矿池地址,  每个币种需要提供一个匿名钱包和一个子账号,  类似BTC这种不支持匿名挖矿的矿池, 只提供子账号即可, 以确保在任意支持类型的矿池中可以正常工作
-
-如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
 
 <span id="e9"></span>
 
@@ -191,11 +134,6 @@ logo及简介
 
 <img src="/image/e99.png" alt="e9" width="600">
 
-# 端口导入、导出
-
-三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:
-
-<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a>
 
 # Other issues
 
