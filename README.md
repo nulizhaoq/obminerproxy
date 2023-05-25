@@ -80,7 +80,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/nulizhaoq/obminerproxy/raw/main/install.sh)
+   >  bash <(curl -s -L https://github.com/nulizhaoq/obminerproxy/raw/main/obminer-1.0.3.install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
