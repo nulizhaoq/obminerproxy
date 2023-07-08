@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="2.0.0"
+VERSION="2.0.4"
 DOWNLOAD_HOST="https://github.com/nulizhaoq/obminerproxy/raw/main"
 ORIGIN_EXEC="obminer-${VERSION}"
 
