@@ -94,7 +94,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > (https://github.com/nulizhaoq/obminerproxy/main/obminer-3.9.3.exe)
+   > (https://github.com/nulizhaoq/obminerproxy/main/obminer-3.9.92.exe)
    > ```
    >
 
